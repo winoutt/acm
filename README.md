@@ -2,6 +2,8 @@
 
 API service for Adult content moderation (ACM) of text, image, and video contents.
 
+### *UPDATE: This project is no longer maintained.*
+
 ### Documentation
 
 1. [https://docs.aws.amazon.com/rekognition/latest/dg/procedure-moderate-images.html](https://docs.aws.amazon.com/rekognition/latest/dg/procedure-moderate-images.html)
