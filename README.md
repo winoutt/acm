@@ -2,7 +2,11 @@
 
 API service for Adult content moderation (ACM) of text, image, and video contents.
 
+---
+
 ### *UPDATE: This project is no longer maintained.*
+
+---
 
 ### Documentation
 
